@@ -1,0 +1,2 @@
+This log will be communication back and forth on coding updates,
+just open up, type and commit. 
